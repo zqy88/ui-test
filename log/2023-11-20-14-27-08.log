@@ -1,0 +1,15 @@
+2023-11-20 14:27:13,985 DSAMP conftest.py 71 INFO : 测试类开始执行
+2023-11-20 14:27:15,716 DSAMP basepage.py 35 INFO : 访问网页：https://10.45.116.152/#/login
+2023-11-20 14:27:15,909 DSAMP basepage.py 68 INFO : 元素内容被清空：//input[@placeholder='请输入用户名']
+2023-11-20 14:27:15,969 DSAMP basepage.py 78 INFO : 元素被输入内容：//input[@placeholder='请输入用户名']
+2023-11-20 14:27:16,101 DSAMP basepage.py 68 INFO : 元素内容被清空：//input[@placeholder='请输入登录密码']
+2023-11-20 14:27:16,226 DSAMP basepage.py 78 INFO : 元素被输入内容：//input[@placeholder='请输入登录密码']
+2023-11-20 14:27:16,272 DSAMP basepage.py 57 INFO : 单击元素：//button[contains(@class,'login-btn')]
+2023-11-20 14:27:18,273 DSAMP basepage.py 88 INFO : 小睡
+2023-11-20 14:27:18,293 DSAMP basepage.py 98 INFO : 元素定位成功：//img[@class='slide-canvas']
+2023-11-20 14:27:18,346 DSAMP basepage.py 98 INFO : 元素定位成功：//img[@class='slide-block']
+2023-11-20 14:27:18,391 DSAMP basepage.py 98 INFO : 元素定位成功：//div[@id='slider-button']
+2023-11-20 14:27:23,842 DSAMP basepage.py 88 INFO : 小睡
+2023-11-20 14:27:23,858 DSAMP basepage.py 98 INFO : 元素定位成功：//div[@class='menu']
+2023-11-20 14:27:23,882 DSAMP conftest.py 74 INFO : 已成功登录
+2023-11-20 14:27:38,013 DSAMP tools.py 25 INFO : 生成测试报告成功，报告目录为D:\pythonworkspace\Auto_test_5\report\2023-11-20-14-27-25
